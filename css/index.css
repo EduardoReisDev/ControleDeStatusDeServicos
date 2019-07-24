@@ -1,0 +1,29 @@
+html, body{
+	width: 100%;
+	height: 100%;
+	overflow-x:hidden;
+}
+
+.navbar{
+	background-color: #094D92;
+}
+
+.titulo{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+}
+
+.titulo2{
+	font-family: 'Raleway', sans-serif;
+}
+
+.table{
+	text-align: center;
+}
+
+.rodape{
+	color: white;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: #094D92;
+}
